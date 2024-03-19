@@ -27,7 +27,7 @@ Setup
 
 1. Clone the Repository
 ```bash
-git clone https://github.com/your-repository/large-csv-parser.git
+git clone https://github.com/agnihotri099/Kelp-Global
 cd large-csv-parser
 ```
 
